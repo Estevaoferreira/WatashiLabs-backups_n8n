@@ -1,0 +1,1 @@
+{"nodes":[{"parameters":{},"type":"n8n-nodes-base.errorTrigger","typeVersion":1,"position":[0,0],"id":"29cee327-7676-464d-9822-f34cc6d58704","name":"Error Trigger"}],"connections":{},"pinData":{},"meta":{"templateCredsSetupCompleted":true}}
